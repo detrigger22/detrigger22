@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
+https://github.com/gjbae1212/hit-counter
